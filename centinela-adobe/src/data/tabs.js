@@ -1,6 +1,10 @@
 const info = 
 [
   {
+    header: 'Centinela Adobe',
+    details: ''
+  },
+  {
     header: 'Annual Barbecue',
     details: 'Scheduled for second Sunday of June 2018. (06/10/2018) An old-fashioned step back in time in the shade of century old trees with live music, vintage cars, and great food. Stop by for baked beans, barbecue beef, chicken, coleslaw, and dessert.'
   },
