@@ -1,3 +1,14 @@
+.fullHeight
+{
+  height: 100%;
+}
+.spanPadding
+{
+  border-radius: 64px;
+  display: block;
+  vertical-align: middle;
+  padding: 8px 16px;
+}
 .white
 {
   color: white;

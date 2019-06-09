@@ -11,12 +11,18 @@ function EventInfoNav()
     {
       result.push(
         <li onClick={ () => { setTab(index); } } className='w3-hover-white'>
-          <a href="#" class="w3-round-jumbo w3-center">
+          <span className="w3-round-jumbo w3-center spanPadding">
             { current.header }
-          </a>
+          </span>
         </li>
       );
+      return true;
     });
+    result.push(
+      <li className='w3-hover-white'>
+        <a className="w3-round-jumbo w3-center" href="https://www.cityofinglewood.org/depts/rec/centinela_adobe/default.asp">City of Inglewood</a>
+      </li>
+    );
     return result;
   }
   return (
