@@ -14,7 +14,7 @@ function EventInfoNav()
           key={current.header}
           onClick={() => { setTab(index); }}
           className='w3-hover-white'>
-          <span className="w3-round-jumbo w3-center spanPadding">
+          <span className={`w3-round-jumbo w3-center spanPadding ${currentTabIndex === index ? 'w3-white' : ''}`}>
             {current.header}
           </span>
         </li>
