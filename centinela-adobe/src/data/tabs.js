@@ -21,8 +21,8 @@ const info =
     header: 'Annual Fiesta',
     date: secondSunday(9),
     // details: 'Scheduled for second Sunday of September 2018. (09/9/2018) The Fiesta will celebrate the heritage of the California Rancho Days and feature Folklorico Dancers, Mariachis, Pinata Party, Handmade Tortillas, Quesadillas and Pan Dulce. Lace Making, Butter Churning and Wool Spinning will be demonstrated. Tour the South Bay\'s first home, the Centinela Adobe and the first Real Estate Office, the Daniel Freeman Land Office. Admission is free and refreshments are available for purchase.'
-    // details: 'Scheduled for ' + secondSunday(9) + '. The Fiesta will celebrate the heritage of the California Rancho Days and feature Folklorico Dancers, Mariachis, Pinata Party, Handmade Tortillas, Quesadillas and Pan Dulce. Lace Making, Butter Churning and Wool Spinning will be demonstrated. Tour the South Bay\'s first home, the Centinela Adobe and the first Real Estate Office, the Daniel Freeman Land Office. Admission is free and refreshments are available for purchase.'
-    details: 'Cancelled until further notice due to COVID-19'
+    details: 'Scheduled for ' + secondSunday(9) + '. The Fiesta will celebrate the heritage of the California Rancho Days and feature Folklorico Dancers, Mariachis, Pinata Party, Handmade Tortillas, Quesadillas and Pan Dulce. Lace Making, Butter Churning and Wool Spinning will be demonstrated. Tour the South Bay\'s first home, the Centinela Adobe and the first Real Estate Office, the Daniel Freeman Land Office. Admission is free and refreshments are available for purchase.'
+    // details: 'Cancelled until further notice due to COVID-19'
   },
   {
     header: 'Christmas Caroling',
